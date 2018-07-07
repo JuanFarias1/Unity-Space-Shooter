@@ -1,1 +1,3 @@
 # Unity-Space-Shooter
+
+A simple 2.5D game I made in Unity a while back. I had the idea in my head for a while and wanted to get it down in code. This was made in the middle of the semester and I haven't had a chance to work on it since then, but the maid idea should be apparent upon playing it. It's nothing more than a modern version of asteroids with a few extra touches. Nearly all of the assets used were created by me with the exception of the spaceship sounds, and the planet earth in the background. The soundtrack as well as the asteroids, and spaceship were written and modeld by me, so please excuse their roughness. 
